@@ -1,2 +1,7 @@
-# demo-estudio-juridico-jorge-rabin
-Demo web para Estudio Juridico Jorge Rabin — diseñada por eterlab.
+# Estudio Juridico Jorge Rabin
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
